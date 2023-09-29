@@ -1,2 +1,2 @@
 # prak-pemweb
-https://pandalautt.github.io/prak-pemweb/prak1/
+https://boo-dee.github.io/prak-pemweb/prak1/

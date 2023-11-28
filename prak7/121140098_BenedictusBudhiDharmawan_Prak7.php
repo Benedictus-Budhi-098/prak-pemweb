@@ -1,3 +1,7 @@
+// Nama : Benedictus Budhi Dharmawan
+// NIM  : 121140098
+// Kelas : Praktikum RB
+
 <?php
 
 class data {  //merepresentasikan kelas berisi nama dan nim seseorang
